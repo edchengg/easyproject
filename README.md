@@ -1,1 +1,1 @@
-# easyproject
+# EasyProject
