@@ -2,6 +2,8 @@
 
 [Frustratingly Easy Label Projection for Cross-lingual Transfer](https://arxiv.org/abs/2211.15613) (Findings of ACL2023)
 
+![EasyProject GIF](https://raw.githubusercontent.com/edchengg/easyproject/main/asset/easyproject.gif)
+
 [Gradio Demo](https://ychennlp-easyproject.hf.space/)
 
 ## Checkpoints
