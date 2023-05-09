@@ -11,6 +11,10 @@
 - [NLLB-200-1.3B](https://huggingface.co/ychenNLP/nllb-200-distilled-1.3B-easyproject)
 - [NLLB-200-3.3B](https://huggingface.co/ychenNLP/nllb-200-3.3b-easyproject)
 
+## Data
+- [Translated Data](https://drive.google.com/drive/folders/15LTRv2TMbrI67slWLWyClhVMaYOFD78b?usp=share_link)
+- [MT Training Data](https://drive.google.com/drive/folders/15LTRv2TMbrI67slWLWyClhVMaYOFD78b?usp=share_link)
+
 ## Citation
 Please cite if you use the above resources for your research
 ```
