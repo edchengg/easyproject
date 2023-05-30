@@ -7,7 +7,7 @@
 [Gradio Demo](https://ychennlp-easyproject.hf.space/)
 
 ## Checkpoints
-- [NLLB-200-600M](https://huggingface.co/ychenNLP/nllb-200-distilled-600M-easyproject)
+Update (May 30, 2023): Update checkpoints due to an issue in [Huggingface NLLB tokenization](https://github.com/huggingface/transformers/pull/22313).
 - [NLLB-200-1.3B](https://huggingface.co/ychenNLP/nllb-200-distilled-1.3B-easyproject)
 - [NLLB-200-3.3B](https://huggingface.co/ychenNLP/nllb-200-3.3b-easyproject)
 
